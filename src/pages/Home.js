@@ -51,7 +51,7 @@ const Home = ({ data }) => {
                 ))}
             </div>
             <p class="porfolio_readmore">
-                <a href="/" className="primary-btn">입력</a>        
+                <a href="/" className="primary-btn">See my full portfolio</a>        
             </p>
         </div>
       </main>
